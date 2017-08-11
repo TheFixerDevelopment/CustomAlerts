@@ -18,9 +18,8 @@ use pocketmine\event\player\PlayerJoinEvent;
 use pocketmine\event\player\PlayerPreLoginEvent;
 use pocketmine\event\player\PlayerQuitEvent;
 use pocketmine\event\server\DataPacketReceiveEvent;
-use pocketmine\network\mcpe\protocol\DataPacket;
-use pocketmine\network\mcpe\protocol\LoginPacket;
-use pocketmine\network\mcpe\protocol\ProtocolInfo as Info;
+use pocketmine\network\protocol\DataPacket;
+use pocketmine\network\protocol\Info;
 use pocketmine\Player;
 use pocketmine\Server;
 
