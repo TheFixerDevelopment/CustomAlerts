@@ -20,7 +20,7 @@ use pocketmine\event\player\PlayerQuitEvent;
 use pocketmine\event\server\DataPacketReceiveEvent;
 use pocketmine\network\protocol\DataPacket;
 use pocketmine\network\protocol\LoginPacket;
-use pocketmine\network\protocol\ProtocolInfo as Info;
+use pocketmine\network\mcpe\protocol\ProtocolInfo as Info;
 use pocketmine\Player;
 use pocketmine\Server;
 
